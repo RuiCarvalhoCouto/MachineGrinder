@@ -1,2 +1,2 @@
 # MachineGrinder
-Files for the build of the game Machine Grinder
+This is a fast paced boomer shooter, developed my myself and Tiago Carvalho.
