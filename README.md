@@ -1,5 +1,5 @@
 # MachineGrinder
-This is a fast paced boomer shooter, developed my myself and Tiago Carvalho.
+This is a fast paced boomer shooter, developed by myself and [Balente](https://github.com/Balentee) :) .
 
 This repository is to archive the files for the latest build. 
 
